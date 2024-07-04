@@ -8,4 +8,7 @@ h2{
     color: Tomato;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    background-color: antiquewhite;
+    padding-bottom: 30px;
+    text-decoration: overline;
 }
