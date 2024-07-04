@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+h2{
+    font-size: 36px;
+    padding-top: 30px;
+    color: Tomato;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
